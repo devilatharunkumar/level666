@@ -1,1 +1,1 @@
-console.log("FUCK2");
+console.log("FUCK3");
